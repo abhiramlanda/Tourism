@@ -1,0 +1,16 @@
+.bg-wholeContainer{
+    background-image: url(/home/abhiram/Desktop/web/img/banner.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.head{
+    color: burlywood;
+}
+.card-container{
+    background-color: #fff;
+    height: 40%;
+    width: 100%;
+    text-align: center;
+    padding-top: 35px;
+}
